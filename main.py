@@ -105,14 +105,14 @@ unsafe_allow_html=True)
     st.header('Proyectos')
 
     st.markdown("""
-## - [Buenos Aires car accidents analysis](https://github.com/lautaroppaniagua/PI_DA)
+## - [Analisis de siniestros viales en C.A.B.A.](https://github.com/lautaroppaniagua/PI_DA)
 En este proyecto tome el rol de un analista de datos, utilizando los datasets oficiales de la ciudad de Buenos Aires explore y limpié los datos para realizar graficos y conclusiones sobre los siniestros viales en la ciudad. Por ultimo implemente un dashboard en Tableau que permite al usuario una experiencia mas interactiva para filtrar los graficos y KPIs de los datos a su gusto.
 ##### Herramientas
 Python | Pandas | Matplotlib | Seaborn | Tableau
                 
 ---               
                 
-## - [Steam recommendation system](https://github.com/lautaroppaniagua/Steam_ML_OPS)
+## - [Sistema de recomendacion en BBDD Steam](https://github.com/lautaroppaniagua/Steam_ML_OPS)
 Desarrolle una Rest API en FastAPI y con deploy en Railway en donde se retorna distintas queries sobre un dataset muy extenso proveniente de una base de datos de Steam. A este proyecto tambien le implemente un algoritmo de recomendacion de videojuegos y usuarios para encontrar afinidades entre estos.
 ##### Herramientas
 Python | Pandas | SkLearn | FastAPI
